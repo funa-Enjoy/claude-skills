@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "google-calendar": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/mcp-server-google-calendar"]
+    }
+  }
+}
